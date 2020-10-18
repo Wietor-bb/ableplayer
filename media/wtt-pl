@@ -1,0 +1,75 @@
+WEBVTT
+kind: captions
+lang: pl
+
+UWAGA Ten plik VTT zawiera kilka dodatków:
+- Metadane u góry (linie 2 i 3)
+- Bieżący blok komentarzy, oznaczony jako NOTE i otoczony spacjami
+- ustawienia cue na końcu pierwszego znacznika czasu
+- Rozpiętość cue na początku drugiego ładunku cue
+- (w tym przypadku „rozpiętość głosu” <v> identyfikująca mówiącego)
+- Lista ustawień cue WebVTT po sygnaturze czasowej 39.132
+- Obecnie AblePlayer nie obsługuje tych dodatkowych funkcji
+- ale parser musi mieć możliwość ich odfiltrowania
+-
+- Dodano 1 kwietnia 2015 do celów testowych (oba są ważne):
+- Blok cue bez treści
+- Wiele podziałów linii między niektórymi blokami cue
+-
+- Więcej informacji w specyfikacji WebVTT (wciąż ewoluującej):
+- http://dev.w3.org/html5/webvtt
+
+00:00:00.429 -> 00:00:09.165
+[muzyka]
+
+00:00:09.165 -> 00:00:10.792
+<v Narrator> <i> Potrzebujesz </i> tych ludzi.
+
+00:00:10.792 -> 00:00:13.759
+<b> zamawiają </b> Twoje produkty,
+<b> rejestrują się </b> w swoich usługach,
+
+00:00:13.759 -> 00:00:16.627
+<b> zapisują się </b> na swoje zajęcia,
+<b> czytają </b> twoje opinie,
+
+00:00:16.627 -> 00:00:18.561
+i <b> oglądają </b> twoje filmy.
+
+00:00:18.561 -> 00:00:24.165
+Nigdy ich nie zobaczysz, ale oni cię znają-
+za pośrednictwem Twojej witryny.
+
+00:00:24.165 -> 00:00:25.891
+Albo może nie.
+
+00:00:25.891 -> 00:00:30.396
+<c.quotable> Użytkownicy Twojej witryny nie są
+bezimienną masą identycznych „klikaczy” </c>
+
+00:00:30.396 -> 00:00:32.363
+ale żywą
+wspólnotą jednostek
+
+00:00:32.363 -> 00:00:35.297
+o różnych gustach,
+stylu i umiejętności.
+
+00:00:35.297 -> 00:00:36.900
+To również osoby niepełnosprawne.
+
+00:00:39.132 -> 00:00:41.000 pozycja:10%, start align:start size:35%
+<v Terrill> Jest to ważne dla
+projektanci stron internetowych i programiści
+
+00:00:41.000 -> 00:00:45.500
+uświadomili sobie, co one widzą
+aktualnie na swoim komputerze,
+
+00:00:45.500 -> 00:00:49.264
+w ich rozdzielczości, w przeglądarce
+i ich systemie operacyjnym
+
+00:00:49.264 -> 00:00:52.000
+niekoniecznie będzie
+to samo, co widzą wszyscy inni.
