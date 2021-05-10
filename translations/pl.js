@@ -42,13 +42,13 @@ var pl = {
 
 "hideTranscript": "Ukryj transkrypcję",
 
-"turnOnDescriptions": "Włącz deskrypcję",
+"turnOnDescriptions": "Włącz audiodeskrypcję",
 
-"turnOffDescriptions": "Wyłącz deskrypcję",
+"turnOffDescriptions": "Wyłącz audiodeskrypcję",
 
 "chapters": "Rozdziały",
 
-"newChapter": "Nowy rodział",
+"newChapter": "Nowy rzodział",
 
 "language": "Język",
 
@@ -124,7 +124,7 @@ var pl = {
 
 "alertNonDescribedVersion": "Korzystanie z wersji bez opisu audio",
 
-"fallbackError1": "Twoja przeglądarka nie potrafi odtworzyć tego filmu. Użyj innej",
+"fallbackError1": "Przeglądarka nie może odtworzyć tego filmu. Użyj innej",
 
 "fallbackError2": "Przeglądarki dobrze współpracujące z tym odtwarzaczem",
 
@@ -154,19 +154,19 @@ var pl = {
 
 "prefIntroDescriptionNone": "Nie ma jeszcze audiodeskrypcji.",
 
-"prefIntroDescription3": "Panel ustawień text-based audio description.",
+"prefIntroDescription3": "Panel ustawień tekstowe audiodeskrypcji.",
 
-"prefIntroDescription4": "Po zapisaniu ustawień, audiodeskrypcję można włączyć/wyłączyć za pomocą klawisza Audiodeskrypcja.",
+"prefIntroDescription4": "Po zapisaniu ustawień audiodeskrypcję można włączyć/wyłączyć za pomocą klawisza Audiodeskrypcja.",
 
-"prefIntroKeyboard1": "Ten odtwarzac można obsługiwac za pomoca klawiatury (zobacz listę skrótó klawiszowych poniżej).",
+"prefIntroKeyboard1": "Ten odtwarzac można obsługiwac za pomoca klawiatury (zobacz listę skrótów klawiszowych poniżej).",
 
 "prefIntroKeyboard2": "Klawisze modyfikujące (Shift, Alt i Control) można przypisać poniżej.",
 
-"prefIntroKeyboard3": "NOTE: Some key combinations might conflict with keys used by your browser and/or other software applications. Try various combinations of modifier keys to find one that works for you.",
+"prefIntroKeyboard3": "Uwaga: Niektóre kombinacje klawiszy – skroty klawiszowe – mogą być już wykorzystywane przez inne aplikacje. Jeśli zauważysz konflikt, wypróbuj inne kombinacje, by uniknąć konflików.",
 
 "prefIntroTranscript": "Ustawienia interaktywnej transkrypcji.",
 
-"prefCookieWarning": "Do zapisaywania ustawień używamy plików cookies, muszą być włączone w przeglądarce.",
+"prefCookieWarning": "Do zapisaywania ustawień używamy plików cookies, w związku z tym muszą być włączone w przeglądarce.",
 
 "prefHeadingKeyboard1": "Klawisze modyfikujące używane w skrótach",
 
@@ -260,7 +260,7 @@ var pl = {
 
 "captionsPositionOverlay": "Nakładka",
 
-"captionsPositionBelow": "Poniżej filmy",
+"captionsPositionBelow": "Poniżej filmu",
 
 "sampleCaptionText": "Przykład opisu",
 
